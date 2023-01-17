@@ -1,5 +1,5 @@
 **Home**
-- [About](/)
+- [About](../)
 
 **Week 2**
 - [todo]
