@@ -1,3 +1,6 @@
+**Home**
+- [About](/)
+
 **Week 2**
 - [todo]
 
